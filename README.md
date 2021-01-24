@@ -1,4 +1,4 @@
-# Install Nextcloud Snap in a Raspberry Pi
+# Install Nextcloud Snap in a Raspberry Pi (NOT COMPLETE)
 
 Have you tried to install nextcloud and couldn't? Or do you want to install it in your home and don't know? This article can help you to make a clean and error-free root installation.
 
